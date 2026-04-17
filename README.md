@@ -1,16 +1,27 @@
-## Hi there 👋
+## Sup! ✌️
 
-<!--
-**VladiTNT/VladiTNT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am VladiTNT! A new developer from 🇷🇴 Romania 🇷🇴!
 
-Here are some ideas to get you started:
+I mostly work on 🔗backends🔗 with Go but I also make 🕹️games🕹️, 🛠️CLI tools🛠️ and 🌐frontend web dev🌐.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech stack:**
+- 💙Golang💙 (standard library, Gin, GORM, ebitengine)
+- HTML/CSS/JS (mostly used in SSR with Go)
+
+*Other:*
+- SQL (intermediate)
+- C++ (intermediate, mostly what I know from high school)
+- C#  (beginner)
+
+*Want to learn:*
+- React / Vue / Svelte
+- Tailwind CSS
+- Python
+- Rust
+- Tauri / Wails
+- OpenGL / Vulkan / WebGPU
+
+**Fun facts:**
+- I love cats
+- My favorite game is Terraria
+- I am a MASSIVE geek lol
