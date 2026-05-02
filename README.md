@@ -5,7 +5,7 @@ I am VladiTNT! A new developer from 🇷🇴 Romania 🇷🇴!
 I mostly work on 🔗backends🔗 with Go but I also make 🕹️games🕹️, 🛠️CLI tools🛠️ and 🌐frontend web dev🌐.
 
 **Tech stack:**
-- 💙Golang💙 (standard library, Gin, GORM, ebitengine)
+- 💙Golang💙 (standard library, ebitengine, Gin)
 - HTML/CSS/JS (mostly used in SSR with Go)
 
 *Other:*
@@ -14,7 +14,7 @@ I mostly work on 🔗backends🔗 with Go but I also make 🕹️games🕹️, �
 - C#  (beginner)
 
 *Want to learn:*
-- React / Vue / Svelte
+- SolidJS / VueJS & AlpineJS
 - Tailwind CSS
 - Python
 - Rust
